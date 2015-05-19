@@ -1,0 +1,1098 @@
+{
+	"1": {
+		"basic": [{
+			"range": {
+				"from": 0,
+				"to": 100
+			},
+			"fare": 410
+		},
+		{
+			"range": {
+				"from": 100,
+				"to": 200
+			},
+			"fare": 910
+		},
+		{
+			"range": {
+				"from": 200,
+				"to": 300
+			},
+			"fare": 1600	
+		},
+		{
+			"range": {
+				"from": 300,
+				"to": 400	
+			},
+			"fare": 3850
+		},
+		{
+			"range": {
+				"from": 400,
+				"to": 500
+			},
+			"fare": 7300
+		},
+		{
+			"range": {
+				"from": 500,
+				"to": 10000000
+			},
+			"fare": 12940	
+		}],
+		"wattage": [{
+			"range": {
+				"from": 0,
+				"to": 100
+			},
+			"fare": 66.7
+		},
+		{
+			"range": {
+				"from": 100,
+				"to": 200
+			},
+			"fare": 125.9
+		},
+		{
+			"range": {
+				"from": 200,
+				"to": 300
+			},
+			"fare": 187.9	
+		},
+		{
+			"range": {
+				"from": 300,
+				"to": 400	
+			},
+			"fare": 280.6
+		},
+		{
+			"range": {
+				"from": 400,
+				"to": 500
+			},
+			"fare": 417.7
+		},
+		{
+			"range": {
+				"from": 500,
+				"to": 10000000
+			},
+			"fare": 709.5	
+		}] 
+	},
+	"2": {
+		"basic": [{
+			"range": {
+				"from": 0,
+				"to": 100
+			},
+			"fare": 410
+		},
+		{
+			"range": {
+				"from": 100,
+				"to": 200
+			},
+			"fare": 730
+		},{
+			"range": {
+				"from": 200,
+				"to": 300
+			},
+			"fare": 1260	
+		},
+		{
+			"range": {
+				"from": 300,
+				"to": 400	
+			},
+			"fare": 3170
+		},
+		{
+			"range": {
+				"from": 400,
+				"to": 500
+			},
+			"fare": 6060
+		},
+		{
+			"range": {
+				"from": 500,
+				"to": 10000000
+			},
+			"fare": 10760	
+		}],
+		"wattage": [{
+			"range": {
+				"from": 0,
+				"to": 100
+			},
+			"fare": 57.6
+		},
+		{
+			"range": {
+				"from": 100,
+				"to": 200
+			},
+			"fare": 98.9
+		},{
+			"range": {
+				"from": 200,
+				"to": 300
+			},
+			"fare": 147.3	
+		},
+		{
+			"range": {
+				"from": 300,
+				"to": 400	
+			},
+			"fare": 215.6
+		},
+		{
+			"range": {
+				"from": 400,
+				"to": 500
+			},
+			"fare": 325.7
+		},
+		{
+			"range": {
+				"from": 500,
+				"to": 10000000
+			},
+			"fare": 574.6	
+		}]
+	},
+	"3": {
+		"basic": 6160,
+		"wattage": {
+			"spring": 65.2,
+			"summer": 105.7,
+			"autumn": 65.2,
+			"winter": 92.3
+		}
+	},
+	"4": {
+		"basic": 7170,
+		"wattage": {
+			"spring": 71.9,
+			"summer": 115.9,
+			"autumn": 71.9,
+			"winter": 103.6
+		}
+	},
+	"5": {
+		"basic": 8230,
+		"wattage": {
+			"spring": 67.6,
+			"summer": 111.9,
+			"autumn": 67.6,
+			"winter": 98.3
+		}
+	},
+	"6": {
+		"basic": 7170,
+		"wattage": {
+			"spring": 70.8,
+			"summer": 113.8,
+			"autumn": 70.8,
+			"winter": 100.6
+		}
+	},
+	"7": {
+		"basic": 8230,
+		"wattage": {
+			"spring": 65.5,
+			"summer": 108.5,
+			"autumn": 65.5,
+			"winter": 95.3
+		}
+	},
+	"8": {
+		"basic": 7170,
+		"wattage": {
+			"spring": {
+				"light": 62.7,
+				"middle": 70.1,
+				"heavy": 81.4
+			},
+			"summer": {
+				"light": 62.7,
+				"middle": 113.9,
+				"heavy": 136.4
+			},
+			"autumn": {
+				"light": 62.7,
+				"middle": 70.1,
+				"heavy": 81.4
+			},
+			"winter": {
+				"light": 71.4,
+				"middle": 101.8,
+				"heavy": 116.6
+			}
+		}
+	},
+	"9": {
+		"basic": 8230,
+		"wattage": {
+			"spring": {
+				"light": 57.4,
+				"middle": 64.8,
+				"heavy": 76.1
+			},
+			"summer": {
+				"light": 57.4,
+				"middle": 108.6,
+				"heavy": 131.1
+			},
+			"autumn": {
+				"light": 57.4,
+				"middle": 64.8,
+				"heavy": 76.1
+			},
+			"winter": {
+				"light": 66.1,
+				"middle": 96.5,
+				"heavy": 111.3
+			}
+		}
+	},
+	"10": {
+		"basic": 7170,
+		"wattage": {
+			"spring": {
+				"light": 62.1,
+				"middle": 68,
+				"heavy": 73.4
+			},
+			"summer": {
+				"light": 62.1,
+				"middle": 110.7,
+				"heavy": 127.1
+			},
+			"autumn": {
+				"light": 62.1,
+				"middle": 68,
+				"heavy": 73.4
+			},
+			"winter": {
+				"light": 71.1,
+				"middle": 98.4,
+				"heavy": 112.6
+			}
+		}
+	},
+	"11": {
+		"basic": 8230,
+		"wattage": {
+			"spring": {
+				"light": 56.8,
+				"middle": 62.7,
+				"heavy": 68.1
+			},
+			"summer": {
+				"light": 56.8,
+				"middle": 105.4,
+				"heavy": 121.8
+			},
+			"autumn": {
+				"light": 56.8,
+				"middle": 62.7,
+				"heavy": 68.1
+			},
+			"winter": {
+				"light": 65.8,
+				"middle": 93.1,
+				"heavy": 107.3
+			}
+		}
+	},
+	"12": {
+		"basic": 7220,
+		"wattage": {
+			"spring": {
+				"light": 61.6,
+				"middle": 84.1,
+				"heavy": 114.8
+			},
+			"summer": {
+				"light": 61.6,
+				"middle": 114.5,
+				"heavy": 196.6
+			},
+			"autumn": {
+				"light": 61.6,
+				"middle": 84.1,
+				"heavy": 114.8
+			},
+			"winter": {
+				"light": 68.6,
+				"middle": 114.7,
+				"heavy": 172.2
+			}
+		}
+	},
+	"13": {
+		"basic": 8320,
+		"wattage": {
+			"spring": {
+				"light": 56.1,
+				"middle": 78.6,
+				"heavy": 109.3
+			},
+			"summer": {
+				"light": 56.1,
+				"middle": 109,
+				"heavy": 191.1
+			},
+			"autumn": {
+				"light": 56.1,
+				"middle": 78.6,
+				"heavy": 109.3
+			},
+			"winter": {
+				"light": 63.1,
+				"middle": 109.2,
+				"heavy": 166.7
+			}
+		}
+	},
+	"14": {
+		"basic": 9810,
+		"wattage": {
+			"spring": {
+				"light": 55.2,
+				"middle": 77.3,
+				"heavy": 101
+			},
+			"summer": {
+				"light": 55.2,
+				"middle": 108.4,
+				"heavy": 178.7
+			},
+			"autumn": {
+				"light": 55.2,
+				"middle": 77.3,
+				"heavy": 101
+			},
+			"winter": {
+				"light": 62.5,
+				"middle": 108.6,
+				"heavy": 155.5
+			}
+		}
+	},
+	"15": {
+		"basic": 6630,
+		"wattage": {
+			"spring": {
+				"light": 60,
+				"middle": 82.3,
+				"heavy": 112.6
+			},
+			"summer": {
+				"lgiht": 60,
+				"middle": 112.3,
+				"heavy": 193.5
+			},
+			"autumn": {
+				"light": 60,
+				"middle": 82.3,
+				"heavy": 112.6
+			},
+			"winter": {
+				"lgiht": 67,
+				"middle": 112.3,
+				"heavy": 168.5
+			}
+		}
+	},
+	"16": {
+		"basic": 7380,
+		"wattage": {
+			"spring": {
+				"light": 56.2,
+				"middle": 78.5,
+				"heavy": 108.8
+			},
+			"summer": {
+				"lgiht": 56.2,
+				"middle": 108.5,
+				"heavy": 189.7
+			},
+			"autumn": {
+				"light": 56.2,
+				"middle": 78.5,
+				"heavy": 108.8
+			},
+			"winter": {
+				"lgiht": 63.2,
+				"middle": 108.5,
+				"heavy": 164.7
+			}
+		}
+	},
+	"17": {
+		"basic": 8190,
+		"wattage": {
+			"spring": {
+				"light": 54.5,
+				"middle": 76.9,
+				"heavy": 107.2
+			},
+			"summer": {
+				"lgiht": 54.5,
+				"middle": 106.8,
+				"heavy": 188.1
+			},
+			"autumn": {
+				"light": 54.5,
+				"middle": 76.9,
+				"heavy": 107.2
+			},
+			"winter": {
+				"lgiht": 61.6,
+				"middle": 106.8,
+				"heavy": 163
+			}
+		}
+	},
+
+	"18": {
+		"basic": 6590,
+		"wattage": {
+			"spring": {
+				"light": 59.5,
+				"middle": 82.4,
+				"heavy": 112.8
+			},
+			"summer": {
+				"lgiht": 59.5,
+				"middle": 112.4,
+				"heavy": 193.3
+			},
+			"autumn": {
+				"light": 59.5,
+				"middle": 82.4,
+				"heavy": 112.8
+			},
+			"winter": {
+				"lgiht": 66.4,
+				"middle": 112,
+				"heavy": 168.6
+			}
+		}
+	},
+	"19": {
+		"basic": 7520,
+		"wattage": {
+			"spring": {
+				"light": 54.8,
+				"middle": 77.7,
+				"heavy": 108.1
+			},
+			"summer": {
+				"lgiht": 54.8,
+				"middle": 107.7,
+				"heavy": 188.6
+			},
+			"autumn": {
+				"light": 54.8,
+				"middle": 77.7,
+				"heavy": 108.1
+			},
+			"winter": {
+				"lgiht": 61.7,
+				"middle": 107.3,
+				"heavy": 163.9
+			}
+		}
+	},
+	"20": {
+		"basic": 8090,
+		"wattage": {
+			"spring": {
+				"light": 53.7,
+				"middle": 76.6,
+				"heavy": 107
+			},
+			"summer": {
+				"lgiht": 53.7,
+				"middle": 106.6,
+				"heavy": 187.5
+			},
+			"autumn": {
+				"light": 53.7,
+				"middle": 76.6,
+				"heavy": 107
+			},
+			"winter": {
+				"lgiht": 60.6,
+				"middle": 106.2,
+				"heavy": 162.8
+			}
+		}
+	},
+
+	"21": {
+		"basic": 5230,
+		"wattage": {
+			"spring": 59.7,
+			"summer": 96.9,
+			"autumn": 59.7,
+			"winter": 84.1
+		}
+	},
+	"22": {
+		"basic": 5550,
+		"wattage": {
+			"spring": 59.8,
+			"summer": 96.6,
+			"autumn": 59.8,
+			"winter": 82.6
+		}
+	},
+	"23": {
+		"basic": 6370,
+		"wattage": {
+			"spring": 55.4,
+			"summer": 92.1,
+			"autumn": 55.4,
+			"winter": 78.1
+		}
+	},
+	"24": {
+		"basic": 5550,
+		"wattage": {
+			"spring": 59.4,
+			"summer": 95.9,
+			"autumn": 59.4,
+			"winter": 81.8
+		}
+	},
+	"25": {
+		"basic": 6370,
+		"wattage": {
+			"spring": 54.9,
+			"summer": 91.4,
+			"autumn": 54.9,
+			"winter": 77.3
+		}
+	},
+	"26": {
+		"basic": 6090,
+		"wattage": {
+			"spring": {
+				"light": 49.8,
+				"middle": 64.2,
+				"heavy": 84.7
+			},
+			"summer": {
+				"light": 49.8,
+				"middle": 94.5,
+				"heavy": 160.4
+			},
+			"autumn": {
+				"light": 49.8,
+				"middle": 64.2,
+				"heavy": 84.7
+			},
+			"winter": {
+				"light": 53.8,
+				"middle": 93,
+				"heavy": 131.7
+			}
+		}
+	},
+	"27": {
+		"basic": 6980,
+		"wattage": {
+			"spring": {
+				"light": 45.3,
+				"middle": 59.7,
+				"heavy": 80.2
+			},
+			"summer": {
+				"light": 45.3,
+				"middle": 90,
+				"heavy": 155.9
+			},
+			"autumn": {
+				"light": 45.3,
+				"middle": 59.7,
+				"heavy": 80.2
+			},
+			"winter": {
+				"light": 49.3,
+				"middle": 88.5,
+				"heavy": 127.2
+			}
+		}
+	},
+	"28": {
+		"basic": 6090,
+		"wattage": {
+			"spring": {
+				"light": 48.3,
+				"middle": 62.5,
+				"heavy": 82.3
+			},
+			"summer": {
+				"light": 48.3,
+				"middle": 91.8,
+				"heavy": 154.7
+			},
+			"autumn": {
+				"light": 48.3,
+				"middle": 62.5,
+				"heavy": 82.3
+			},
+			"winter": {
+				"light": 52.1,
+				"middle": 90.1,
+				"heavy": 127.4
+			}
+		}
+	},
+	"29": {
+		"basic": 6980,
+		"wattage": {
+			"spring": {
+				"light": 43.8,
+				"middle": 58,
+				"heavy": 77.8
+			},
+			"summer": {
+				"light": 43.8,
+				"middle": 87.3,
+				"heavy": 150.2
+			},
+			"autumn": {
+				"light": 43.8,
+				"middle": 58,
+				"heavy": 77.8
+			},
+			"winter": {
+				"light": 47.6,
+				"middle": 85.6,
+				"heavy": 122.9
+			}
+		}
+	},
+	"30": {
+		"basic": 5550,
+		"wattage": {
+			"spring": 59.2,
+			"summer": 81,
+			"autumn": 59.2,
+			"winter": 79.3
+		}
+	},
+	"31": {
+		"basic": 6490,
+		"wattage": {
+			"spring": 65.9,
+			"summer": 89.6,
+			"autumn": 65.9,
+			"winter": 89.5
+		}
+	},
+	"32": {
+		"basic": 7470,
+		"wattage": {
+			"spring": 61.3,
+			"summer": 84.8,
+			"autumn": 61.3,
+			"winter": 83
+		}
+	},
+	"33": {
+		"basic": 6000,
+		"wattage": {
+			"spring": 64.8,
+			"summer": 88.4,
+			"autumn": 64.8,
+			"winter": 88
+		}
+	},
+	"34": {
+		"basic": 6900,
+		"wattage": {
+			"spring": 60.2,
+			"summer": 83.7,
+			"autumn": 60.2,
+			"winter": 81.9
+		}
+	},
+	"35": {
+		"basic": 6490,
+		"wattage": {
+			"spring": {
+				"light": 60.5,
+				"middle": 65.3,
+				"heavy": 84.5
+			},
+			"summer": {
+				"light": 60.5,
+				"middle": 86.3,
+				"heavy": 119.8
+			},
+			"autumn": {
+				"light": 60.5,
+				"middle": 65.3,
+				"heavy": 84.5
+			},
+			"winter": {
+				"light": 67.9,
+				"middle": 84.8,
+				"heavy": 114.2
+			}
+		}
+	},
+	"36": {
+		"basic": 7470,
+		"wattage": {
+			"spring": {
+				"light": 55.6,
+				"middle": 60.4,
+				"heavy": 79.6
+			},
+			"summer": {
+				"light": 55.6,
+				"middle": 81.4,
+				"heavy": 114.9
+			},
+			"autumn": {
+				"light": 55.6,
+				"middle": 60.4,
+				"heavy": 79.6
+			},
+			"winter": {
+				"light": 63,
+				"middle": 79.9,
+				"heavy": 109.3
+			}
+		}
+	},
+	"37": {
+		"basic": 6000,
+		"wattage": {
+			"spring": {
+				"light": 57.3,
+				"middle": 63.9,
+				"heavy": 82.7
+			},
+			"summer": {
+				"light": 57.3,
+				"middle": 84.9,
+				"heavy": 118.7
+			},
+			"autumn": {
+				"light": 57.3,
+				"middle": 63.9,
+				"heavy": 82.7
+			},
+			"winter": {
+				"light": 64.5,
+				"middle": 82.5,
+				"heavy": 111.2
+			}
+		}
+	},
+	"38": {
+		"basic": 6900,
+		"wattage": {
+			"spring": {
+				"light": 52.8,
+				"middle": 59.4,
+				"heavy": 78.2
+			},
+			"summer": {
+				"light": 52.8,
+				"middle": 80.4,
+				"heavy": 114.2
+			},
+			"autumn": {
+				"light": 52.8,
+				"middle": 59.4,
+				"heavy": 78.2
+			},
+			"winter": {
+				"light": 60,
+				"middle": 78,
+				"heavy": 106.7
+			}
+		}
+	},
+
+	"39": {
+		"basic": 7220,
+		"wattage": {
+			"spring": {
+				"light": 61.6,
+				"middle": 84.1,
+				"heavy": 114.8
+			},
+			"summer": {
+				"light": 61.6,
+				"middle": 114.5,
+				"heavy": 196.6
+			},
+			"autumn": {
+				"light": 61.6,
+				"middle": 84.1,
+				"heavy": 114.8
+			},
+			"winter": {
+				"light": 68.6,
+				"middle": 114.7,
+				"heavy": 172.2
+			}
+		}
+	},
+	"40": {
+		"basic": 8320,
+		"wattage": {
+			"spring": {
+				"light": 56.1,
+				"middle": 78.6,
+				"heavy": 109.3
+			},
+			"summer": {
+				"light": 56.1,
+				"middle": 109,
+				"heavy": 191.1
+			},
+			"autumn": {
+				"light": 56.1,
+				"middle": 78.6,
+				"heavy": 109.3
+			},
+			"winter": {
+				"light": 63.1,
+				"middle": 109.2,
+				"heavy": 166.7
+			}
+		}
+	},
+	"41": {
+		"basic": 9810,
+		"wattage": {
+			"spring": {
+				"light": 55.2,
+				"middle": 77.3,
+				"heavy": 101
+			},
+			"summer": {
+				"light": 55.2,
+				"middle": 108.4,
+				"heavy": 178.7
+			},
+			"autumn": {
+				"light": 55.2,
+				"middle": 77.3,
+				"heavy": 101
+			},
+			"winter": {
+				"light": 62.5,
+				"middle": 108.6,
+				"heavy": 155.5
+			}
+		}
+	},
+	"42": {
+		"basic": 6630,
+		"wattage": {
+			"spring": {
+				"light": 60,
+				"middle": 82.3,
+				"heavy": 112.6
+			},
+			"summer": {
+				"lgiht": 60,
+				"middle": 112.3,
+				"heavy": 193.5
+			},
+			"autumn": {
+				"light": 60,
+				"middle": 82.3,
+				"heavy": 112.6
+			},
+			"winter": {
+				"lgiht": 67,
+				"middle": 112.3,
+				"heavy": 168.5
+			}
+		}
+	},
+	"43": {
+		"basic": 7380,
+		"wattage": {
+			"spring": {
+				"light": 56.2,
+				"middle": 78.5,
+				"heavy": 108.8
+			},
+			"summer": {
+				"lgiht": 56.2,
+				"middle": 108.5,
+				"heavy": 189.7
+			},
+			"autumn": {
+				"light": 56.2,
+				"middle": 78.5,
+				"heavy": 108.8
+			},
+			"winter": {
+				"lgiht": 63.2,
+				"middle": 108.5,
+				"heavy": 164.7
+			}
+		}
+	},
+	"44": {
+		"basic": 8190,
+		"wattage": {
+			"spring": {
+				"light": 54.5,
+				"middle": 76.9,
+				"heavy": 107.2
+			},
+			"summer": {
+				"lgiht": 54.5,
+				"middle": 106.8,
+				"heavy": 188.1
+			},
+			"autumn": {
+				"light": 54.5,
+				"middle": 76.9,
+				"heavy": 107.2
+			},
+			"winter": {
+				"lgiht": 61.6,
+				"middle": 106.8,
+				"heavy": 163
+			}
+		}
+	},
+
+	"45": {
+		"basic": 6590,
+		"wattage": {
+			"spring": {
+				"light": 59.5,
+				"middle": 82.4,
+				"heavy": 112.8
+			},
+			"summer": {
+				"lgiht": 59.5,
+				"middle": 112.4,
+				"heavy": 193.3
+			},
+			"autumn": {
+				"light": 59.5,
+				"middle": 82.4,
+				"heavy": 112.8
+			},
+			"winter": {
+				"lgiht": 66.4,
+				"middle": 112,
+				"heavy": 168.6
+			}
+		}
+	},
+	"46": {
+		"basic": 7520,
+		"wattage": {
+			"spring": {
+				"light": 54.8,
+				"middle": 77.7,
+				"heavy": 108.1
+			},
+			"summer": {
+				"lgiht": 54.8,
+				"middle": 107.7,
+				"heavy": 188.6
+			},
+			"autumn": {
+				"light": 54.8,
+				"middle": 77.7,
+				"heavy": 108.1
+			},
+			"winter": {
+				"lgiht": 61.7,
+				"middle": 107.3,
+				"heavy": 163.9
+			}
+		}
+	},
+	"47": {
+		"basic": 8090,
+		"wattage": {
+			"spring": {
+				"light": 53.7,
+				"middle": 76.6,
+				"heavy": 107
+			},
+			"summer": {
+				"lgiht": 53.7,
+				"middle": 106.6,
+				"heavy": 187.5
+			},
+			"autumn": {
+				"light": 53.7,
+				"middle": 76.6,
+				"heavy": 107
+			},
+			"winter": {
+				"lgiht": 60.6,
+				"middle": 106.2,
+				"heavy": 162.8
+			}
+		}
+	},
+
+	"54": {
+		"basic": 6290,
+		"wattage": 85.9
+	},
+
+	"56": {
+		"basic": 360,
+		"wattage": 21.6
+	},
+	"57": {
+		"basic": 360,
+		"wattage": 21.6
+	},
+	"58": {
+		"basic": 1150,
+		"wattage": 39.2
+	},
+	"59": {
+		"basic": 1210,
+		"wattage": {
+			"spring": 39.9,
+			"summer": 41.9,
+			"autumn": 39.9,
+			"winter": 41.9
+		}
+	},
+	"60": {
+		"basic": 1210,
+		"wattage": {
+			"spring": 39.9,
+			"summer": 41.9,
+			"autumn": 39.9,
+			"winter": 41.9
+		}
+	}
+
+}

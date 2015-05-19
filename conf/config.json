@@ -1,0 +1,20 @@
+{
+    "development": {
+        "rds" : {
+            "username": "root",
+            "password": null,
+            "database": "development",
+            "host": "127.0.0.1",
+            "port": "3306"
+        }
+    },
+    "production" : {
+        "rds" : {
+            "username": "encored",
+            "password": "GetITSmart0419",
+            "database": "production",
+            "host": "encored-mysql-rds.codutqbwbu3t.ap-northeast-1.rds.amazonaws.com",
+            "port": "3306"
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+	"spring": {
+		"light": [{
+			"start": 23,
+			"end": 9
+		}],
+		"middle": [{
+			"start": 9,
+			"end": 10
+		},
+		{
+			"start": 12,
+			"end": 13	
+		},
+		{
+			"start": 17,
+			"end": 23	
+		}],
+		"heavy": [{
+			"start": 10,
+			"end": 12
+		},
+		{
+			"start": 13,
+			"end": 17	
+		}]	
+	},
+	"summer": {
+		"light": [{
+			"start": 23,
+			"end": 9
+		}],
+		"middle": [{
+			"start": 9,
+			"end": 10
+		},
+		{
+			"start": 12,
+			"end": 13
+		},
+		{
+			"start": 17,
+			"end": 23
+		}],
+		"heavy": [{
+			"start": 10,
+			"end": 12
+		},
+		{
+			"start": 13,
+			"end": 17	
+		}]
+	},
+	"autumn": {
+		"light": [{
+			"start": 23,
+			"end": 9
+		}],
+		"middle": [{
+			"start": 9,
+			"end": 10
+		},
+		{
+			"start": 12,
+			"end": 13	
+		},
+		{
+			"start": 17,
+			"end": 23	
+		}],
+		"heavy": [{
+			"start": 10,
+			"end": 12
+		},
+		{
+			"start": 13,
+			"end": 17	
+		}]	
+	},
+	"winter": {
+		"light": [{
+			"start": 23,
+			"end": 9
+		}],
+		"middle": [{
+			"start": 9,
+			"end": 10
+		},
+		{
+			"start": 12,
+			"end": 17	
+		},
+		{
+			"start": 20,
+			"end": 22
+		}],
+		"heavy": [{
+			"start": 10,
+			"end": 12
+		},
+		{
+			"start": 17,
+			"end": 20
+		},
+		{
+			"start": 22,
+			"end": 23
+		}]
+	}
+
+}
