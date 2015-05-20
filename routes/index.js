@@ -13,7 +13,7 @@ router.get('/', function(req, res, next) {
 		dataJson,
 		totalBill,
 		dbApplication = new dbConnectedData();
-
+/*
 	fs.readFile('test1Usage.txt', 'utf8', function (error, data) {
 		var previous = 0;
 
@@ -43,7 +43,7 @@ router.get('/', function(req, res, next) {
 					unitPeriodUsage: testUsage[i]
 				});
 			}
-			/*
+			
 			dataJson.siteHash = '5f31166578b6a5a4f619eb9698ea2b92d781692d';
 			dataJson.metering = false;
 			dataJson.detaild = false;
@@ -53,33 +53,43 @@ router.get('/', function(req, res, next) {
 
 			totalBill = core(dataJson);
 			console.log(totalBill);
-			res.send(totalBill);*/
-			if (req.body.contractType) {
-				dataJson.contractType = req.body.contractType;
-			}
-			else {
-				dbApplication.getContractType(dataJson.siteHash, function (error, contractType) {
-					if (error) {
-						console.log(error)
-					}
-					else {
-						dataJson.contractType = contractType;
-						if (req.body.contractPower) {
-							dataJson.contractPower = req.body.contractPower
-						}
-						else {
-							dbApplication.getContractPower(dataJson.siteHash, function (error, contractPower) {
-								dataJson.contractPower = contractPower;
-								console.log(totalBill);
-								res.send(totalBill);
-							});
-						}
-					}	
-				});
-			}
+			res.send(totalBill);
+			// test code
 
 		});
-	});
+	});*/
+	console.log(req);
+	if (req.body) {
+		dataJson.siteHash = req.body.siteHash;
+		dataJson.metering = req.body.metering;
+		dataJson.detailed = req.body.detailed;
+
+		if (req.body.contractType) {
+			dataJson.contractType = req.body.contractType;
+		}
+		else {
+			dbApplication.getContractType(dataJson.siteHash, function (error, contractType) {
+				if (error) {
+					console.log(error)
+				}
+				else {
+					dataJson.contractType = contractType;
+					if (req.body.contractPower) {
+						dataJson.contractPower = req.body.contractPower
+					}
+					else {
+						dbApplication.getContractPower(dataJson.siteHash, function (error, contractPower) {
+							dataJson.contractPower = contractPower;
+							console.log(totalBill);
+							res.send(totalBill);
+						});
+					}
+				}	
+			});
+		}
+	}
+
+
 });
   // res.render('index', { title: 'Express' });
 
